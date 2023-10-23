@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+}
+.item {
+    margin: 10px;
+    list-style: none;
+    background-color: #616161;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+
+.lights {
+    display: flex;
+}
+
+/*# sourceMappingURL=/main.af46ece4.css.map */
